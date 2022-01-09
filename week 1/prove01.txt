@@ -1,0 +1,33 @@
+After completing the assignment, be sure to push to Github. You do not have to worry about pushing to Heroku this lesson.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your source code repository (e.g., GitHub):
+https://github.com/AlexanderLynn/cse341-nodejs
+
+3. Briefly list and describe the elements of the application that are functioning. 
+At this point the following is working:
+- Node.js server
+- Basic requestHandler
+- npm package manager
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+Currently all that we have built is functioning correctly. Not too much this week.
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+Having worked with php before, it is really cool to see how easy it is to spin up a server without eneding to first start
+Apache of Nginx and rely upon all of their configurations as well. I can see some cool potential with containers too.
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+Honestly, he is a fantastic teacher. I think he expained everything really well. I don't have anything to change at this point.
+
+7. Please select the category you feel best describes your assignment:
+   1 - Some attempt was made
+   2 - Developing, but significantly deficient
+   3 - Slightly deficient, but still mostly adequate
+   4 - Meets requirements
+   5 - Shows creativity and excels above and beyond requirements
+
+Number 5!
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+Nothing too crazy required in this assignment. Very straight forward and I did exactly as the course took me through.

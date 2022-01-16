@@ -1,0 +1,37 @@
+After completing the assignment, be sure to push to Github. You do not have to worry about pushing to Heroku this lesson.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your source code repository (e.g., GitHub):
+https://github.com/AlexanderLynn/cse341-nodejs
+
+3. Briefly list and describe the elements of the application that are functioning. 
+At this point the following is working:
+- Node.js server
+- Basic requestHandler
+- NPM package manager
+- Routes for "/", "admin/add-product", and a page not found (404)
+- EJS tmeplating and rendering via express
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+Being able to use vanilla javascript code within an html page is fantastic. While I think I would prefer to write most of my logic
+outside of the page, having the ability to insert variables dyanically is sweet!
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+I think the handlebars felt kind of like a waste of time. I would have prefered using the 25 minutes on learning some more high level
+concepts or EJS syntax.
+
+7. Please select the category you feel best describes your assignment:
+   1 - Some attempt was made
+   2 - Developing, but significantly deficient
+   3 - Slightly deficient, but still mostly adequate
+   4 - Meets requirements
+   5 - Shows creativity and excels above and beyond requirements
+
+Number 5!
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+I took the time to really understand what was being performed in these sections and push myself on the challenges. Then I reviewed my
+code with the instructors solutions.

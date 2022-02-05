@@ -1,0 +1,47 @@
+After completing the assignment, be sure to push to Github. You do not have to worry about pushing to Heroku this lesson.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your source code repository (e.g., GitHub):
+https://github.com/AlexanderLynn/cse341-nodejs
+
+3. Briefly list and describe the elements of the application that are functioning. 
+At this point the following is working:
+- Node.js server
+- Basic requestHandler
+- NPM package manager
+- Routes for "/", "admin/add-product", and a page not found (404)
+- EJS tmeplating and rendering via express
+- Data stored in a JSON file
+- Forms for adding, editing, and deleting products
+- A cart for our shop
+- Creating user
+- NoSQL database in MongoDB
+- Orders and order retrieval based on user id
+- User creation and authentication
+- Email on account creation
+- CSRF protection in pages
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+Server side validation for pattern matching of any entered fields
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+CSRF protection and understanding how that is implemented was super cool! I had ever thought about injecting
+a unique code in each page, but it makes sense. I made me think of the "state" property that is returned
+when making an OAuth2 request in an API.
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+I wish we could have seen the backend for the csurf module. While It is much easier to include a module, it
+is nice to see how that funcitons at lower level.
+
+7. Please select the category you feel best describes your assignment:
+   1 - Some attempt was made
+   2 - Developing, but significantly deficient
+   3 - Slightly deficient, but still mostly adequate
+   4 - Meets requirements
+   5 - Shows creativity and excels above and beyond requirements
+
+Number 5!
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+Got the work done and trie to make sure I understood every piece before moving on. A short lessons, so not much repetition
+was needed.
